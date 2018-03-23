@@ -3,7 +3,7 @@ import java.io.*;
 import java.util.*;
 /**
  * Esta clase genera secuencias genéticas aleatorias
- * @author ALISSON
+ * @author Stefania Crespo
  *
  */
 public class Sequences {
